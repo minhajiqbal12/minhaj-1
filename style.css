@@ -1,0 +1,183 @@
+
+∗{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.button, a{
+    letter-spacing:0.03rem!important;
+    word-spacing:.1rem;
+    font-size:1.15rem ;
+}
+
+.navbar{
+    height: 5rem;
+}
+
+h1,h2,h3,h4,h5{
+ color:#1a1d20;
+}
+
+.h1{
+    font-size: 3.8rem;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+
+h2{
+    line-height: 3rem;
+    font-weight: 600;
+    font-size: 3.4rem;
+}
+
+.h5{
+    font-size: 34px;
+    color:white;
+    padding-left: 50px;
+    font-weight: 400;
+}
+
+.p{
+    font-weight: 400 ;
+    font-size: 1rem ;
+    margin: 0;
+    color:#1a1d20 ;
+    letter-spacing: 0.07rem;
+    line-height: 1.55rem;
+    font-synthesis: none;
+    text-rendering: optimizeLegibility;
+    text-align: center;
+}
+.navbar-expand-lg {
+    background-color: black;
+    
+}
+
+ a{
+    text-decoration: none;
+}
+
+.nav-item:hover{
+    color: orange!important;
+} 
+
+.nav-item{
+    color: white;
+}
+    
+
+/* hero section start  */
+
+.hero-section .container{
+    display: grid;
+    place-content: center;
+    height: inherit;
+}
+
+.bg-main{
+    position: relative;
+    height: 80vh;
+}
+
+.hero-video--section{
+    width: 38rem;
+    height: auto;
+    border-radius: 2rem;
+   padding-left: 50px;
+}
+
+.bg-color{
+    background-color: black;
+}
+
+.text-light-grey{
+    color: #c6c6c6;
+}
+
+
+.body
+{
+    background-size: auto;
+}
+
+.custom-shape-divider-bottom-1708258903 {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 300px;
+    overflow: hidden;
+    line-height: 0;
+    transform: rotate(180deg);
+}
+
+.custom-shape-divider-bottom-1708258903 svg {
+    position: relative;
+    display: block;
+    width: calc(106% + 1.3px);
+    height: 150px;
+    transform: rotateY(180deg);
+}
+
+.custom-shape-divider-bottom-1708258903 .shape-fill {
+    fill: #FFFFFF;
+}
+
+/* hero section end  */
+
+
+
+/* Busniess card start */
+.common-heading{
+    font-size: 2.8rem ;
+    font-weight: 500 ;
+    letter-spacing: 0.01rem!important;
+}
+
+.common-title{
+    margin-bottom: 4.8rem;
+}
+
+.hunky{
+    letter-spacing: 0.02rem;
+    word-spacing: 0.3rem;
+    color:white;
+    text-align: center;
+    padding-left: 40px;
+}
+
+.bg-color{
+    background-color: black;
+    padding-right: 100px;
+    
+}
+
+ .dory{
+    margin-left: 13px;
+    width: 400px;
+}
+
+.dosy{
+    margin-left: 13px;
+    width: 400px;
+}
+
+.doosy{
+    margin-left: 68px;
+    width: 400px;
+} 
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Busniess card end */
